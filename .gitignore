@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# *
+
+# gitignore는 복사 안 할 폴더를 표기하는 화일임
+include 
+Lib 
+Scripts 
+.env
